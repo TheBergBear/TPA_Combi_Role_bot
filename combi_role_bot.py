@@ -40,4 +40,4 @@ async def assign_combo_role(before, after, comb_role_list):
             else:
                 await after.remove_roles(combo_role)
 
-client.run('ODQ1MDMyMzg5OTAyMzM2MDAy.YKbDvQ.7DexMQKfrOiRe9I0GVbvC0Km028')
+client.run('YourToken')
